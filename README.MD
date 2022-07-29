@@ -7,7 +7,7 @@ This Telegram Bot can send request to https://www.craiyon.com/ with text prompt 
 ## Ussage
 
 ```
- /dalle text-prompt.
+ /dalle text-prompt
 
 ```
 
